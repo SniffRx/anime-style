@@ -37,7 +37,7 @@
 ![image](https://user-images.githubusercontent.com/37187657/178916936-a590fe84-71ae-428c-a1e4-793587543bfd.png)
 
 
-  <p align="center">Glitchles effect for profile page.</p>
+  <p align="center">Beautiful page for one page profile</p>
 
 ## Getting Started
 
